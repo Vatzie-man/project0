@@ -1,0 +1,47 @@
+CS50 Reference:
+https://reference.cs50.net/
+Terminal:
+https://ide.cs50.io/waclawk/ide50
+GitHub: User: Vatzie-man; mail:wacmna676; Pass: Ci*****!
+
+CSS - Cascading Style Sheets
+____________________________________________________________
+Lesson 1 (Git):
+*git clone <url>
+*git add <filename>
+*git commit -m "message" #first you 'add' and then 'commit'; and then pull (my own experience)
+*git status
+*git push (pushing code from CPU to GitHub)
+*git pull (from GitHub to CPU)
+
+__Merge Conflict (when local file differs against GitHub version)__
+
+*git log (shows a history of the all changes)
+
+*git reset --hard <commit> ## commit - all that odd numbers and letters; reset to the version represented by those numbers
+*git reset --hard origin/master # reset the repository to the orgin repository from GitHub
+
+Other:
+in google: html color picker
+
+Linux:
+xdg-open 'file' - for open file
+
+
+Thoughts:
+*You are good at something while you can teach that confidently. Thought it is hard to reach that level. But you have a background, use it!
+*Fiding a 100 000pln in 3/6 years. Be patient and eventually you will get there. 
+
+______________________________________________________________________________________
+*What type of change is most conductive to a fulfilling life ?
+*If you plan on being less that you are capable of being, you will propably be unhappy all the days of your life.
+
+*Do the things you fear and the death of fear is certain.
+
+The Road of Death - a safe road 
+
+
+
+
+
+
